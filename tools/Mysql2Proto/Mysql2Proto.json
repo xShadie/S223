@@ -1,0 +1,7 @@
+{
+	"hostname":	"localhost",
+	"user":		"root",
+	"password":	"admin",
+	"database":	"player",
+	"port":		3306
+}
