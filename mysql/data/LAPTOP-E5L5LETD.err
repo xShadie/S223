@@ -1,0 +1,59 @@
+2023-07-11 20:49:42 16464 [Note] Plugin 'FEDERATED' is disabled.
+2023-07-11 20:49:43 16464 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2023-07-11 20:49:43 16464 [Note] InnoDB: The InnoDB memory heap is disabled
+2023-07-11 20:49:43 16464 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2023-07-11 20:49:43 16464 [Note] InnoDB: Memory barrier is not used
+2023-07-11 20:49:43 16464 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-07-11 20:49:43 16464 [Note] InnoDB: Not using CPU crc32 instructions
+2023-07-11 20:49:43 16464 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2023-07-11 20:49:43 16464 [Note] InnoDB: Completed initialization of buffer pool
+2023-07-11 20:49:43 16464 [Note] InnoDB: Highest supported file format is Barracuda.
+2023-07-11 20:49:43 16464 [Note] InnoDB: The log sequence numbers 1601213 and 1601213 in ibdata files do not match the log sequence number 1601789 in the ib_logfiles!
+2023-07-11 20:49:43 16464 [Note] InnoDB: Database was not shutdown normally!
+2023-07-11 20:49:43 16464 [Note] InnoDB: Starting crash recovery.
+2023-07-11 20:49:43 16464 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2023-07-11 20:49:47 16464 [Note] InnoDB: Restoring possible half-written data pages 
+2023-07-11 20:49:47 16464 [Note] InnoDB: from the doublewrite buffer...
+2023-07-11 20:49:51 16464 [Note] InnoDB: 128 rollback segment(s) are active.
+2023-07-11 20:49:51 16464 [Note] InnoDB: Waiting for purge to start
+2023-07-11 20:49:51 16464 [Note] InnoDB: Waiting for purge to start
+2023-07-11 20:49:52 16464 [Note] InnoDB: Waiting for purge to start
+2023-07-11 20:49:52 16464 [Note] InnoDB: Waiting for purge to start
+2023-07-11 20:49:52 16464 [Note] InnoDB: 5.6.51 started; log sequence number 1601789
+2023-07-11 20:49:52 16464 [Note] RSA private key file not found: C:\Users\Veronica\Desktop\Projekt\mysql\data\\private_key.pem. Some authentication plugins will not work.
+2023-07-11 20:49:52 16464 [Note] RSA public key file not found: C:\Users\Veronica\Desktop\Projekt\mysql\data\\public_key.pem. Some authentication plugins will not work.
+2023-07-11 20:49:52 16464 [Note] Server hostname (bind-address): '*'; port: 3306
+2023-07-11 20:49:52 16464 [Note] IPv6 is available.
+2023-07-11 20:49:52 16464 [Note]   - '::' resolves to '::';
+2023-07-11 20:49:52 16464 [Note] Server socket created on IP: '::'.
+2023-07-11 20:49:58 16464 [Note] Event Scheduler: Loaded 0 events
+2023-07-11 20:49:58 16464 [Note] bin\mysqld: ready for connections.
+Version: '5.6.51'  socket: ''  port: 3306  MySQL Community Server (GPL)
+2023-07-12 08:34:11 15864 [Note] Plugin 'FEDERATED' is disabled.
+2023-07-12 08:34:11 15864 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2023-07-12 08:34:11 15864 [Note] InnoDB: The InnoDB memory heap is disabled
+2023-07-12 08:34:11 15864 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2023-07-12 08:34:11 15864 [Note] InnoDB: Memory barrier is not used
+2023-07-12 08:34:11 15864 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-07-12 08:34:11 15864 [Note] InnoDB: Not using CPU crc32 instructions
+2023-07-12 08:34:11 15864 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2023-07-12 08:34:11 15864 [Note] InnoDB: Completed initialization of buffer pool
+2023-07-12 08:34:12 15864 [Note] InnoDB: Highest supported file format is Barracuda.
+2023-07-12 08:34:12 15864 [Note] InnoDB: The log sequence numbers 1601213 and 1601213 in ibdata files do not match the log sequence number 1601799 in the ib_logfiles!
+2023-07-12 08:34:12 15864 [Note] InnoDB: Database was not shutdown normally!
+2023-07-12 08:34:12 15864 [Note] InnoDB: Starting crash recovery.
+2023-07-12 08:34:12 15864 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2023-07-12 08:34:12 15864 [Note] InnoDB: Restoring possible half-written data pages 
+2023-07-12 08:34:12 15864 [Note] InnoDB: from the doublewrite buffer...
+2023-07-12 08:34:14 15864 [Note] InnoDB: 128 rollback segment(s) are active.
+2023-07-12 08:34:14 15864 [Note] InnoDB: Waiting for purge to start
+2023-07-12 08:34:14 15864 [Note] InnoDB: 5.6.51 started; log sequence number 1601799
+2023-07-12 08:34:14 15864 [Note] RSA private key file not found: C:\Users\Veronica\Desktop\Projekt\mysql\data\\private_key.pem. Some authentication plugins will not work.
+2023-07-12 08:34:14 15864 [Note] RSA public key file not found: C:\Users\Veronica\Desktop\Projekt\mysql\data\\public_key.pem. Some authentication plugins will not work.
+2023-07-12 08:34:14 15864 [Note] Server hostname (bind-address): '*'; port: 3306
+2023-07-12 08:34:14 15864 [Note] IPv6 is available.
+2023-07-12 08:34:14 15864 [Note]   - '::' resolves to '::';
+2023-07-12 08:34:14 15864 [Note] Server socket created on IP: '::'.
+2023-07-12 08:34:18 15864 [Note] Event Scheduler: Loaded 0 events
+2023-07-12 08:34:18 15864 [Note] bin\mysqld: ready for connections.
+Version: '5.6.51'  socket: ''  port: 3306  MySQL Community Server (GPL)
