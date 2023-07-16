@@ -1,0 +1,50 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/bosshunt.tga]
+[CENTER_ALIGN;FONT_SIZE=18]Boss-Hunting Event
+
+[COLOR=0xffd700;FONT_SIZE=15]Content List:
+*1. General Information
+*2. Event Instructions
+*3. Hit Counter Rewards
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=85; CENTER_ALIGN]
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. General Information
+
+The event is for Lv30+ players only.
+One hit registers 1 damage to the boss' HP and you receive points which you will be able to see at the 
+bottom left corner UI, above your HP bar.
+
+You can redeem the points that you collected at the Uriel for several chests.
+Whilst attacking this boss, your attack speed is reduced by 100.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=210; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Event Instructions:
+
+Shadow Warrior will appear in the neautral areas of Orc Valley, Mount Sohan, 
+Doyyumhwaji Paper and Yongbi Desert (2 for each channel).
+Around the Shadow Warrior, the PvP mode is disabled.
+For every hit on a Shadow Warrior you get 1 Point. 
+
+Brutal Shadow Warrior will appear in the beta areas of Cape Dragon Fire, Thunder Mountains, 
+Nephrite Bay and Guatama Cliff (2 for each channel).
+Around the Brutal Shadow Warrior, the PvP mode is enabled.
+For every hit on a Brutal Shadow Warrior you get 2 Points.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=400; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Hit Counter Rewards
+
+You can then exchange your points at Uriel for either a Bronze Decimus Chets, Silver Decimus Chest, 
+Golden Decimus Chest or a Magnificent Decimus Chest.
+
+Warning: The points will disappear as soon as the Event closes, so make sure to redeem them on time.
+
+*500 Points: Bronze Decimus Chest
+*1000 Points: Silver Decimus Chest
+*2000 Points: Golden Decimus Chest
+*5000 Points: Magnificent Decimus Chest
+
+

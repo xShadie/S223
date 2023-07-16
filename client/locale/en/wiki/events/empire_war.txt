@@ -1,0 +1,47 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/empirewar.tga]
+[CENTER_ALIGN;FONT_SIZE=18]Empire War
+
+[COLOR=0xffd700;FONT_SIZE=15]Content List:
+*1. General Information
+*2. Event Instructions
+*3. Empire Rewards
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=100; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. General Information:
+
+Empire War is an Open PvP Event which takes place in a Special Map.
+Every player which is at least 75 Level can participate and fight with his kingdom, against the other two kingdoms.
+The teleport to this map will be reached by a teleport window which will appear in the middle of your screen, 
+when the gates are open. The empire, which after 20 minutes scores the best K/D in % will win the Empire War.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=200; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Event Instructions
+
+When you teleport to this Special Map, you'll soon realise that everyone around you, except your own Kingdom, 
+is an enemy. Hey buddy! Don't leave your guns at home. There's no Safezones to protect you there, 
+so be sure to equip the right items on time. The time is running out... Don't forget that the goal is to score 
+the best K/D in 20 minutes. Both time and performance of your kingdom is critical.
+For the sake of your convenience, the following items are disabled during the Battle:
+
+*Buffi Seal
+*Mounts
+*Wedding Ring
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=380; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Empire Rewards
+
+The Empire to score the Best K/D wins the Empire War and receives the following rates for 6 hours:
+
+*100% Experience
+*10% Strong against Metinstones
+*10% Strong against Bosses
+
+Note: Changing Kingdom after the Empire War is disabled for 6 hours.
+
+

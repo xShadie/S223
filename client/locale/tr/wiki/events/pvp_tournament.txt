@@ -1,0 +1,70 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/pvptournament.tga]
+[CENTER_ALIGN;FONT_SIZE=18]PvP Tournament
+
+
+[COLOR=0xffd700;FONT_SIZE=15]Content List:
+*1. General Information
+*2. Event Instructions
+*3. Level Ranges
+*4. Winner Rewards
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=120; CENTER_ALIGN]
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. General Information:
+
+You can enter the PvP map over a quest or at the Captain. 
+Every round of the tournament will be random. So you have to compete against all races and not just against 
+your own. When you enter the PvP Map, speak to the Admiral Angmur to register to the PvP Tournament.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=210; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Event Instructions
+
+As soon as you are teleported into the Special Map, which the Event is held, head towards the middle of the map.
+You'll find there the Admiral Angmur, where you have to speak in order to register yourself.
+To make it fair for every player, the PvP is executed in several different level ranges.
+Depending on your level, you are put in a level range and now it's time for you to gather your items up.
+There are 4 different arenas, where PvP Battles are completed individually.
+When the Admiral Angmur finds a free arena for you and your opponent, you are automatically teleported inside.
+
+When teleported inside the Arena, you have 10 seconds to sharpen your knives.
+During this waiting time, you are only allowed to buff up and prepare, but not to move or fight.
+The rounds are 'Best of 3', meaning that you just need 2 successive vitories.
+The PvP Tournament is 'Knock-Out', meaning that it will only have 1 Final Winner (from each Level Range).
+
+During your Battle, the following items/functions are disabled:
+
+*Red Potion (S), (M) and (L)
+*Sun Elixir (S), (M) and (L)
+*Mounts
+*Pets
+*Buffi
+*Team Buffs
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=525; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Level Ranges
+
+In order for every player to be able to participate, the PvP Tournament is divided in 5 different level ranges:
+
+*Level 35-60
+*Level 61-75
+*Level 76-95
+*Level 96-105
+*Level 106-115
+
+Each level range will be completed with 1 final Winner.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=690; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]4. Event Rewards:
+
+The PvP Event Rewards are announced usually in the "Events" section of the forum.
+They depend on the players' needs and change from Event to Event.
+
+
+

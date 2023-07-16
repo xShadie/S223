@@ -1,0 +1,38 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/tagteam.tga]
+[CENTER_ALIGN;FONT_SIZE=18]Tag Team Event
+
+[COLOR=0xffd700;FONT_SIZE=15]Content List:
+*1. General Information
+*2. Event Instructions
+*3. Event Rewards
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=100; CENTER_ALIGN]
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. General Information:
+
+The Tag Team Event is a PvP Battle that is performed in different groups.
+Each of these groups consists of 7 teams, 2 Players for each Team!
+Both players of the winning Team will be rewarded at the end of a round.
+You can sign up with your partner in Map1 at the Captain. Be sure that you are near to your Tag Team Partner.
+There's also a Spectator Mode available for the Tag Team Event.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=220; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Event Instructions:
+
+When you register for the Event with your partner, you will be teleported into a Special Map.
+In this map, all the potions and Elixirs are disabled.
+Running towards the middle part of the map, you will meet the other 6 teams, 12 players.
+The team to survive with at least one (1) member alive will win the round and enjoy the rewards!
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=330; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Event Rewards:
+
+The Tag Team Rewards are announced usually in the "Events" section of the forum. 
+They depend on the players' needs and change from Event to Event.
+
+

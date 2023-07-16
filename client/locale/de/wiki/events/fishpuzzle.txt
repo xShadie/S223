@@ -1,0 +1,47 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/fichpuzzle.tga]
+[CENTER_ALIGN;FONT_SIZE=18]Fishpuzzle
+
+[COLOR=0xffd700;FONT_SIZE=15]Content List:
+*1. General Information
+*2. Game Instructions
+*3. Round Rewards
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=110; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. General Information
+
+Each player from level 30 can take part in the event.
+You need a Fishing Rod, Worm or Paste.
+At the top right of the event button you will find the fish puzzle game where you can use the puzzle.
+During the event you get 5 background with every successful catch fish puzzle boxes.
+With an equipped background Fishing Book one has the chance to have a background Fish Puzzlebox Deluxe. 
+(You can buy the Fishing Book from the Itemshop for 3h.) The standard fish puzzle chests contain a random 
+puzzle piece. The Deluxebox contains a larger puzzle piece.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=250; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Game Instructions
+
+The goal of the game is to complete the free fields with the pieces of the puzzle with as few moves as possible.
+A left click opens the chests.
+In the bottom field come the fish puzzle boxes and into the top the Fish Puzzlebox Deluxe.
+Left-click on a chest to open it. Drag the piece to the desired location with your cursor and place it there. 
+Right-click to discard a piece if you don't like the look of it or it doesn’t fit.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=380; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Round Rewards
+
+When you have finished the puzzle, you get 30,000 exp.
+Depending on the necessary attempts you will get one of three golden fish chests.
+The fewer attempts needed, the better the reward you’ll receive.
+
+*10 or less: 3x Golden Fish Chest (L).
+*11 to 24: 2x Golden Fish Chest (L).
+*25 or more: 1x Golden Fish Chest (L).
+
+

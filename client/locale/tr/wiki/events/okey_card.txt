@@ -1,0 +1,87 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/okeycard.tga]
+[CENTER_ALIGN;FONT_SIZE=18]Okey Card Game
+
+[COLOR=0xffd700;FONT_SIZE=15]Content List:
+*1. General Information
+*2. Game Instructions
+*3. Round Rewards
+*4. Combinations and points
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=120; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. General Information
+
+By defeating monsters you will collect Okey Collectable Cards during this Event.
+The Okey Collectable Cards are an Alternative Drop, which means that every monster between +/- 15 Levels 
+can drop them. Once you collected 24 Cards, you automatically receive an Okey Card Set.
+From then on you are allowed to play the minigame. 
+When the Event is active, an Okey Card Game icon will appear next to your minimap, 
+from which you can open and play the game.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=250; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Game Instructions
+
+The goal is to get a combination of sets and runs.
+A set consists of three cards with the same number (e.g. 7, 7, 7).
+The lower the number on the cards, the fewer points you'll earn for the set.
+
+A run consists of at least three consecutive cards (e.g. 6, 7, 8 ).
+The lower the number on the cards, the fewer points you'll earn for the set.
+Runs in the same color will earn more points than multicolored runs.
+
+Left-click on the deck to reveal the first 5 cards.
+Earn points by selecting 3 cards. (NOTE: Left-Click = Select card, Right-Click = Permanently discard card)
+The more points you earn by the end of the game, the better your prize.
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=450; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Round Rewards
+
+The rewards for each game is a chest depending on your score.
+To get this chest after each round, press the "End" button.
+
+*Score < 300: Bronze Okey Chest
+*Score 300-399: Silver Okey Chest
+*Score ≥ 400: Golden Okey Chest
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=590; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]4. Combination and Points
+
+[COLOR=ef4f00;FONT_SIZE=15]4.1 Set Points
+
+*1-1-1 : 20 Points
+*2-2-2 : 30 Points
+*3-3-3 : 40 Points
+*4-4-4 : 50 Points
+*5-5-5 : 60 Points
+*6-6-6 : 70 Points
+*7-7-7 : 80 Points
+*8-8-8 : 90 Points
+
+[COLOR=ef4f00;FONT_SIZE=15]4.2 Run Points
+
+[COLOR=ef4f00]4.2.1 Run Points - Cards with different color:
+
+*1-2-3 : 10 Points
+*2-3-4 : 20 Points
+*3-4-5 : 30 Points
+*4-5-6 : 40 Points
+*5-6-7 : 50 Points
+*6-7-8 : 60 Points
+
+[COLOR=ef4f00]4.2.2 Run Points - Cards with same color:
+
+*1-2-3 : 100 Points
+*2-3-4 : 100 Points
+*3-4-5 : 100 Points
+*4-5-6 : 100 Points
+*5-6-7 : 100 Points
+*6-7-8 : 100 Points
+
